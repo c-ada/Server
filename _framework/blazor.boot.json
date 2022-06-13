@@ -10,7 +10,7 @@
   "resources": {
     "assembly": {
       "Azure.Core.dll": "sha256-eVGzHxrttPSW+6v57z0dtDkGjzEwfF6uy+w8BxXLIUw=",
-      "BlogEmpresarial.dll": "sha256-ol17msf1CU95pdczQUlz9JrF0qEwnKIPlpSKw0dQ1J4=",
+      "BlogEmpresarial.dll": "sha256-pznlCkmUaF0bTCvCDe3X5WWZEjAVGs\/Y1985u1gnfnQ=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-4YVt0vbuC0VKGK6LwzEzR33YQWjBM0wtBRQYzsWfH14=",
       "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-d9L1ipZCPXWKh9nSVZXz41zRuHBVM8fhZuKplZq1ckw=",
       "Microsoft.AspNetCore.Components.dll": "sha256-fv\/5ysY1WtZaXS9De9ltcG2px5jd+OoGxM5Z8f+\/afo=",
@@ -18,7 +18,7 @@
       "Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll": "sha256-ckwbaERYVRqKqGhJHS5gA1KPsZxhX0Fe70E4AfAc2Og=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-M28emPiVZ7qRQh\/esFCSHw1AM1QdiQTuYXCn53bq900=",
       "Microsoft.AspNetCore.Metadata.dll": "sha256-v+gwghA7MejDF7Ed9XQielmvM0gFZ6wQSitmfQWBeHg=",
-      "Microsoft.Authentication.WebAssembly.Msal.dll": "sha256-D6RfxEoTM96JzdsCJ3pmPd5mRKGaNJbyOpLA9dSw2K0=",
+      "Microsoft.Authentication.WebAssembly.Msal.dll": "sha256-aGYDQ5L00KvQW5BRm6wqXFbLWI09QTaRRo\/w3+zK4rQ=",
       "Microsoft.Bcl.AsyncInterfaces.dll": "sha256-EcDo\/GQZkQrOT1Xd0jMPE3NwT5lsMq5DNsPxHVidLDQ=",
       "Microsoft.CSharp.dll": "sha256-RATMf0uemIg51D\/gr1oGCBr9peO9m9AEEYEXzAWENGo=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-C7yvnYV7TlPnFYkL43g+hDNDjzhfAEibiTtXZxV3YuE=",
@@ -115,7 +115,7 @@
     "libraryInitializers": null,
     "pdb": null,
     "runtime": {
-      "dotnet.6.0.4.hfahkxecqo.js": "sha256-VRe3cHfrPEeE+rfTO+ZcFIglSxbcdL98SINLQhuXIbQ=",
+      "dotnet.6.0.4.viz45454v2.js": "sha256-VRe3cHfrPEeE+rfTO+ZcFIglSxbcdL98SINLQhuXIbQ=",
       "dotnet.timezones.blat": "sha256-IAZQkATPLfknBs7WdmI3T1SiL6xDp4WjMEnYenpVpcE=",
       "dotnet.wasm": "sha256-zjsm+X5TWqVY1DzIUZuVUaOW5Tj50J4uR3dYcfQmhxc=",
       "icudt.dat": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",
